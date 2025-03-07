@@ -1,4 +1,18 @@
 .oddNum {
-    background-color: fuchsia;
+    background-color: rgb(212, 72, 72);
     font-family: "Verdana", "DejaVu Sans",sans-serif;
+    
+}
+#numTwo {
+    color: rgb(87, 87, 224);
+    font-size: 36px;
+}
+
+.changeFont {
+    font-size: 24px;
+}
+
+#numFour {
+    background-color: rgb(87, 228, 106);
+    font-weight: bold;
 }
