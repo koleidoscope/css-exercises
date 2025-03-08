@@ -1,0 +1,10 @@
+div p {
+    background-color: rgb(231, 231, 85);
+    color: rgba(255, 0, 0, 0.774);
+    /*font-size: 20px;*/
+    text-align: center;
+}
+/*Can put it all one selector but I want to try doing a type selector, as shown above, and a class selector, as shown below */
+.container .text {
+    font-size: 20px;
+}
